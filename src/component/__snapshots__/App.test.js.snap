@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders correctly 1`] = `
+exports[`App renders correctly 1`] = `
 ShallowWrapper {
   "length": 1,
   Symbol(enzyme.__root__): [Circular],
@@ -31,7 +31,7 @@ ShallowWrapper {
           block={false}
           bsClass="btn"
           bsStyle="default"
-          className="btn-add"
+          className="btn-add btn-primary"
           disabled={false}
           onClick={[Function]}
 >
@@ -74,7 +74,7 @@ ShallowWrapper {
           "bsClass": "btn",
           "bsStyle": "default",
           "children": "Add Gift",
-          "className": "btn-add",
+          "className": "btn-add btn-primary",
           "disabled": false,
           "onClick": [Function],
         },
@@ -105,7 +105,7 @@ ShallowWrapper {
             block={false}
             bsClass="btn"
             bsStyle="default"
-            className="btn-add"
+            className="btn-add btn-primary"
             disabled={false}
             onClick={[Function]}
 >
@@ -148,7 +148,7 @@ ShallowWrapper {
             "bsClass": "btn",
             "bsStyle": "default",
             "children": "Add Gift",
-            "className": "btn-add",
+            "className": "btn-add btn-primary",
             "disabled": false,
             "onClick": [Function],
           },

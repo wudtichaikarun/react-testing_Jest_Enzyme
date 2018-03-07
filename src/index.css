@@ -1,0 +1,15 @@
+body {
+  padding: 5rem 20rem;
+  text-align: center;
+}
+
+.gift {
+  border: 1px solid lightgray;
+  border-radius: .5rem;
+  margin: 1rem;
+  padding: 2rem;
+}
+
+Button {
+  margin: 1rem;
+}
