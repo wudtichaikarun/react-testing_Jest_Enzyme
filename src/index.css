@@ -1,8 +1,10 @@
 body {
   padding: 5rem 20rem;
-  text-align: center;
 }
 
+h2 {
+ text-align: center;
+}
 .gift {
   border: 1px solid lightgray;
   border-radius: .5rem;
